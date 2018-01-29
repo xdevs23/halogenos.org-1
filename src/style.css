@@ -35,7 +35,7 @@ body {
 }
 
 #firstText {
-    padding-top: 19vw;
+    padding-top: 23vw;
     text-align: center;
     color: #484855;
     font-weight: 200;
@@ -102,21 +102,12 @@ body {
     cursor: pointer;
 }
 
-#superNav {
-    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23) !important;
-    margin-bottom: 5vh;
-    z-index: 100;
-    background-color: #484855 !important;
-    position: fixed !important;
-
-}
-
 
 /* Add a black background color to the top navigation */
 
 #myTopnav {
     background-color: #484855;
-    margin-bottom: 10vw;
+    margin-bottom: 8vw;
     overflow: hidden;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23) !important;
     position: fixed;
